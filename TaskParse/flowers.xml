@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flowers>
+<flower>
+<name> lotos </name>
+<soil> podzolic </soil>
+<origin> Australia </origin>
+<colorofthestalk> green </colorofthestalk>
+<colorofleaves> white </colorofleaves>
+<averagesize>40</averagesize>
+<temperature >37</temperature>
+<photophilous> yes </photophilous>
+<wateringaweek>3000</wateringaweek>
+<multiplying> seed </multiplying>
+</flower>
+<flower>
+<name> Tulpan </name>
+<soil> ground </soil>
+<origin> Netherlands </origin>
+<colorofthestalk> green </colorofthestalk>
+<colorofleaves > red </colorofleaves>
+<averagesize>45</averagesize>
+<temperature>31</temperature>
+<photophilous> yes </photophilous>
+<wateringaweek>3200</wateringaweek>
+<multiplying> leaves </multiplying>
+</flower>
+<flower>
+<name> Ficus </name>
+<soil> sod-podzolic </soil>
+<origin> India </origin>
+<colorofthestalk> brown </colorofthestalk>
+<colorofleaves> green </colorofleaves>
+<averagesize>30</averagesize>
+<temperature>30</temperature>
+<photophilous> no </photophilous>
+<wateringaweek>2100</wateringaweek>
+<multiplying> cuttings </multiplying>
+</flower>
+</flowers>

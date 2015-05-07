@@ -1,0 +1,42 @@
+{
+  
+    "flower": [
+      {
+        "name": " lotos ",
+        "soil": " podzolic ",
+        "origin": " Australia ",
+        "colorofthestalk": " green ",
+        "colorofleaves": " white ",
+        "averagesize": "40",
+        "temperature": "37",
+        "photophilous": " yes ",
+        "wateringaweek": "3000",
+        "multiplying": " seed "
+      },
+      {
+        "name": " Tulpan ",
+        "soil": " ground ",
+        "origin": " Netherlands ",
+        "colorofthestalk": " green ",
+        "colorofleaves": " red ",
+        "averagesize": "45",
+        "temperature": "31",
+        "photophilous": " yes ",
+        "wateringaweek": "3200",
+        "multiplying": " leaves "
+      },
+      {
+        "name": " Ficus ",
+        "soil": " sod-podzolic ",
+        "origin": " India ",
+        "colorofthestalk": " brown ",
+        "colorofleaves": " green ",
+        "averagesize": "30",
+        "temperature": "30",
+        "photophilous": " no ",
+        "wateringaweek": "2100",
+        "multiplying": " cuttings "
+      }
+    ]
+ 
+}
